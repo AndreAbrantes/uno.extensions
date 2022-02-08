@@ -2,6 +2,7 @@
 
 This package is a building block to create a [reactive application](https://en.wikipedia.org/wiki/Reactive_programming).
 
+As said by Jérôme in the video Uno Platform Live Coding (https://www.youtube.com/watch?v=bFwDECpZiH0), this is the documentation for MVU-X.
 ## API
 The main API provided by this package is [`IFeed<T>`](https://github.com/unoplatform/uno.extensions/blob/main/src/Uno.Extensions.Reactive/Core/IFeed.cs) which represents a stream of _data_.
 
